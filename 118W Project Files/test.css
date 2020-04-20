@@ -1,0 +1,47 @@
+/* Bootstrap documentation here: https://getbootstrap.com/docs/4.4/getting-started/introduction/ */
+
+/* Website Fonts and Sizes */
+html {
+  /* font-size: 30px !important; */
+}
+
+
+.navcontainer {
+}
+
+.navitem {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+
+.topimage {
+  height: 500px;
+  background-image: url("https://images.squarespace-cdn.com/content/5114c744e4b044f8ed62c985/1535538169471-KO1O69PWIMMKSKI3Y5MC/1.hero.jpg.image.1600.900.high.jpg?format=1500w&content-type=image%2Fjpeg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.newscontainer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.imagetocenter{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.galrow{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.galcol{
+  padding-right: 5px;
+  padding-left: 5px;
+}
